@@ -1,0 +1,26 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "AO#",
+        "O&O",
+        "#OA"
+    ],
+    "key": {
+        "#": {
+            "item": "minecraft:prismarine_crystals"
+        },
+        "O": {
+            "item": "minecraft:bone_meal"
+        },
+        "&": {
+            "item": "minecraft:moss_block"
+        },
+        "A": {
+            "item": "minecraft:prismarine_shard"
+        }
+    },
+    "result": {
+        "item": "minecraft:sponge",
+        "count": 1
+    }
+}

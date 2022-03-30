@@ -1,0 +1,25 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "AO",
+        "#&"
+    ],
+    "key": {
+        "A": {
+            "item": "minecraft:stick"
+        },
+        "O": {
+            "item": "minecraft:charcoal"
+        },
+        "&": {
+            "item": "flint"
+        },
+        "#": {
+            "item": "bone_meal"
+        }
+    },
+    "result": {
+        "item": "minecraft:gunpowder",
+        "count": 1
+    }
+}

@@ -1,0 +1,18 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "#O#"
+    ],
+    "key": {
+        "#": {
+            "item": "minecraft:raw_copper"
+        },
+        "O": {
+            "item": "minecraft:string"
+        }
+    },
+    "result": {
+        "item": "minecraft:redstone",
+        "count": 9
+    }
+}

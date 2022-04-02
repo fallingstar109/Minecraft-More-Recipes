@@ -1,0 +1,22 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        " O",
+        "#&"
+    ],
+    "key": {
+        "#": {
+            "item": "minecraft:stick"
+        },
+        "O": {
+            "item": "minecraft:sand"
+        },
+        "&": {
+            "item": "tuff"
+        }
+    },
+    "result": {
+        "item": "minecraft:flint",
+        "count": 1
+    }
+}

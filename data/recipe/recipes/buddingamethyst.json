@@ -1,0 +1,20 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "###",
+        "#O#",
+        "###"
+    ],
+    "key": {
+        "#": {
+            "item": "minecraft:amethyst_block"
+        },
+        "O": {
+            "item": "minecraft:pointed_dripstone"
+        }
+    },
+    "result": {
+        "item": "minecraft:budding_amethyst",
+        "count": 4
+    }
+}

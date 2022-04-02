@@ -1,0 +1,23 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "O",
+        "&",
+        "#"
+    ],
+    "key": {
+        "#": {
+            "item": "minecraft:moss_block"
+        },
+        "O": {
+            "item": "minecraft:kelp"
+        },
+        "&": {
+            "item": "minecraft:small_dripleaf"
+        }
+    },
+    "result": {
+        "item": "minecraft:sea_pickle",
+        "count": 9
+    }
+}

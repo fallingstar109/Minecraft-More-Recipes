@@ -1,0 +1,23 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "#O#",
+        "&&&",
+        "#O#"
+    ],
+    "key": {
+        "#": {
+            "item": "minecraft:rabbit_hide"
+        },
+        "O": {
+            "item": "minecraft:gold_nugget"
+        },
+        "&": {
+            "item": "minecraft:leather"
+        }
+    },
+    "result": {
+        "item": "minecraft:saddle",
+        "count": 1
+    }
+}

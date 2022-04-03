@@ -13,7 +13,7 @@
             "item": "minecraft:bone_meal"
         },
         "&": {
-            "item": "minecraft:moss_block"
+            "item": "minecraft:yellow_wool"
         },
         "A": {
             "item": "minecraft:prismarine_shard"
@@ -21,6 +21,6 @@
     },
     "result": {
         "item": "minecraft:sponge",
-        "count": 1
+        "count": 2
     }
 }

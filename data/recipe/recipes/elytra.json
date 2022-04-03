@@ -1,16 +1,13 @@
 {
     "type": "minecraft:crafting_shaped",
     "pattern": [
-        "#O#",
+        "#A#",
         "#&#",
         "#A#"
     ],
     "key": {
         "#": {
             "item": "minecraft:phantom_membrane"
-        },
-        "O": {
-            "item": "minecraft:netherite_block"
         },
         "&": {
             "item": "minecraft:string"

@@ -3,17 +3,14 @@
     "pattern": [
         "O",
         "&",
-        "#"
+        "O"
     ],
     "key": {
         "#": {
-            "item": "minecraft:moss_block"
+            "item": "minecraft:wet_sponge"
         },
         "O": {
             "item": "minecraft:kelp"
-        },
-        "&": {
-            "item": "minecraft:small_dripleaf"
         }
     },
     "result": {

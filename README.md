@@ -1,2 +1,3 @@
 # Minecraft-More-Recipes
-# This pack has lots of wrong places,don't download it!
+# This is a datapack for Minecraft 1.14.4.
+# Enjoy!
